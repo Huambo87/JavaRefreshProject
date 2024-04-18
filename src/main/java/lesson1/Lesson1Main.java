@@ -12,7 +12,7 @@ public class Lesson1Main {
         boolean boolean1 = true;
         boolean boolean2 = false;
 
-        int a = 100;
+        int a = 150;
         int b = 200;
         double result = (double) a/b;
 
