@@ -12,8 +12,8 @@ public class Lesson1Main {
         boolean boolean1 = true;
         boolean boolean2 = false;
 
-        int a = 150;
-        int b = 250;
+        int a = 300;
+        int b = 500;
         double result = (double) a/b;
 
 
