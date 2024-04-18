@@ -13,7 +13,7 @@ public class Lesson1Main {
         boolean boolean2 = false;
 
         int a = 150;
-        int b = 200;
+        int b = 250;
         double result = (double) a/b;
 
 
