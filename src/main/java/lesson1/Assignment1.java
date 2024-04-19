@@ -9,8 +9,8 @@ public class Assignment1 {
         System.out.println(intro);
         System.out.println(myName);
 
-        int var1 = -8 + 15 * 6;
-        double var2 = 21 + -3*5 / 8.2;
+        int var1 = -88 + 15 * 6;
+        double var2 = 210 + -3*5 / 8.2;
 
         int var3 = -8 + 15 * 6;
         double var4 = 21 + -3*5 / 8.2;
