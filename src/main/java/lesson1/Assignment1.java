@@ -12,8 +12,14 @@ public class Assignment1 {
         int var1 = -8 + 15 * 6;
         double var2 = 21 + -3*5 / 8.2;
 
+        int var3 = -8 + 15 * 6;
+        double var4 = 21 + -3*5 / 8.2;
+
         System.out.println(var1);
         System.out.println(var2);
+
+        System.out.println(var3);
+        System.out.println(var4);
 
         double a = 1.3;
         double b = 1.1;

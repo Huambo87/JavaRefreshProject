@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b8015d0-1c15-4e07-a330-3ec5049b84f1" name="Changes" comment="New class added, existing class modified">
+    <list default="true" id="5b8015d0-1c15-4e07-a330-3ec5049b84f1" name="Changes" comment="Test commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/lesson1/Assignment1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson1/Assignment1.java" afterDir="false" />
     </list>
@@ -56,9 +56,15 @@
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "module",
+      "directory"
+    ]
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Assignment2">
+  <component name="RunManager" selected="Application.Assignment1">
     <configuration name="Assignment1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lesson1.Assignment1" />
       <module name="JavaRefreshProject" />
@@ -113,8 +119,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Assignment2" />
         <item itemvalue="Application.Assignment1" />
+        <item itemvalue="Application.Assignment2" />
         <item itemvalue="Application.Lesson1Main" />
         <item itemvalue="Application.Main" />
       </list>
@@ -220,7 +226,21 @@
       <option name="project" value="LOCAL" />
       <updated>1713556180829</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Test commit">
+      <created>1713559076338</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1713559076338</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Test commit">
+      <created>1713559441948</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1713559441948</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -269,6 +289,7 @@
     <MESSAGE value="Commit Practice for Java Refresh Project" />
     <MESSAGE value="First commit to new branch" />
     <MESSAGE value="New class added, existing class modified" />
-    <option name="LAST_COMMIT_MESSAGE" value="New class added, existing class modified" />
+    <MESSAGE value="Test commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test commit" />
   </component>
 </project>
