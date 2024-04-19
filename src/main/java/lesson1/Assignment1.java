@@ -9,8 +9,8 @@ public class Assignment1 {
         System.out.println(intro);
         System.out.println(myName);
 
-        int var1 = -5 + 10 * 6;
-        double var2 = 20 + -3*5 / 8;
+        int var1 = -8 + 10 * 6;
+        double var2 = 20 + -3*5 / 8.2;
 
         System.out.println(var1);
         System.out.println(var2);
@@ -19,7 +19,7 @@ public class Assignment1 {
         double b = 1.1;
         double c = 1.5;
         double d = 1.6;
-        double e = 3.62;
+        double e = 4.12;
         double result = a*b*c*d*e;
 
         System.out.println("number a * number b * number c * number d * number e equals " + result);
