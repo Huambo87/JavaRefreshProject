@@ -17,7 +17,7 @@ public class Assignment1 {
 
         double a = 1.3;
         double b = 1.1;
-        double c = 1.5;
+        double c = 1.4;
         double d = 1.6;
         double e = 4.12;
         double result = a*b*c*d*e;
