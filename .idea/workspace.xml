@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b8015d0-1c15-4e07-a330-3ec5049b84f1" name="Changes" comment="Pull Request Test Commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson2/Lesson2Main.java" afterDir="false" />
+    <list default="true" id="5b8015d0-1c15-4e07-a330-3ec5049b84f1" name="Changes" comment="Pyramid Examples Added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -268,7 +267,14 @@
       <option name="project" value="LOCAL" />
       <updated>1713561532234</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Pyramid Examples Added">
+      <created>1713721224050</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1713721224050</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -319,7 +325,8 @@
     <MESSAGE value="New class added, existing class modified" />
     <MESSAGE value="Test commit" />
     <MESSAGE value="Pull Request Test Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Pull Request Test Commit" />
+    <MESSAGE value="Pyramid Examples Added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pyramid Examples Added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
