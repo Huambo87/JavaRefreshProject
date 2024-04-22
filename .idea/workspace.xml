@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5b8015d0-1c15-4e07-a330-3ec5049b84f1" name="Changes" comment="Pyramid Examples Added">
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson2/Lesson2Practice.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,7 +64,7 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lesson2MainLoops">
+  <component name="RunManager" selected="Application.Lesson2Practice">
     <configuration name="Assignment1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lesson1.Assignment1" />
       <module name="JavaRefreshProject" />
@@ -79,19 +80,6 @@
     </configuration>
     <configuration name="Assignment2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lesson1.Assignment2" />
-      <module name="JavaRefreshProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lesson1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lesson1Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson1.Lesson1Main" />
       <module name="JavaRefreshProject" />
       <extension name="coverage">
         <pattern>
@@ -129,13 +117,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lesson2Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson2.Lesson2Practice" />
+      <module name="JavaRefreshProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lesson2Practice" />
         <item itemvalue="Application.Lesson2MainLoops" />
         <item itemvalue="Application.Lesson2Main" />
         <item itemvalue="Application.Assignment1" />
         <item itemvalue="Application.Assignment2" />
-        <item itemvalue="Application.Lesson1Main" />
       </list>
     </recent_temporary>
   </component>
@@ -274,7 +275,21 @@
       <option name="project" value="LOCAL" />
       <updated>1713721224050</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Pyramid Examples Added">
+      <created>1713722061761</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1713722061761</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Pyramid Examples Added">
+      <created>1713722204704</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1713722204704</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -327,20 +342,5 @@
     <MESSAGE value="Pull Request Test Commit" />
     <MESSAGE value="Pyramid Examples Added" />
     <option name="LAST_COMMIT_MESSAGE" value="Pyramid Examples Added" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/java/lesson2/Lesson2Main.java</url>
-          <line>18</line>
-          <properties class="lesson2.Lesson2Main" method="checkScore">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
