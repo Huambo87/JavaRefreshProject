@@ -4,9 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b8015d0-1c15-4e07-a330-3ec5049b84f1" name="Changes" comment="Pyramid Examples Added">
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson2/Lesson2Practice.java" afterDir="false" />
+    <list default="true" id="5b8015d0-1c15-4e07-a330-3ec5049b84f1" name="Changes" comment="Practice Exercises Added">
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson3/Conversions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson3/LoginApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson3/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson3/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson3/SelfTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson3/StringFormat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson3/StringMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,13 +71,13 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lesson2Practice">
-    <configuration name="Assignment1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson1.Assignment1" />
+  <component name="RunManager" selected="Application.Palindrome">
+    <configuration name="Conversions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson3.Conversions" />
       <module name="JavaRefreshProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson1.*" />
+          <option name="PATTERN" value="lesson3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Assignment2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson1.Assignment2" />
+    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson3.Palindrome" />
       <module name="JavaRefreshProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson1.*" />
+          <option name="PATTERN" value="lesson3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lesson2Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson2.Lesson2Main" />
+    <configuration name="ReverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson3.ReverseString" />
       <module name="JavaRefreshProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson2.*" />
+          <option name="PATTERN" value="lesson3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lesson2MainLoops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson2.Lesson2MainLoops" />
+    <configuration name="SelfTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson3.SelfTest" />
       <module name="JavaRefreshProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson2.*" />
+          <option name="PATTERN" value="lesson3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lesson2Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson2.Lesson2Practice" />
+    <configuration name="StringFormat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson3.StringFormat" />
       <module name="JavaRefreshProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson2.*" />
+          <option name="PATTERN" value="lesson3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lesson2Practice" />
-        <item itemvalue="Application.Lesson2MainLoops" />
-        <item itemvalue="Application.Lesson2Main" />
-        <item itemvalue="Application.Assignment1" />
-        <item itemvalue="Application.Assignment2" />
+        <item itemvalue="Application.Palindrome" />
+        <item itemvalue="Application.SelfTest" />
+        <item itemvalue="Application.ReverseString" />
+        <item itemvalue="Application.StringFormat" />
+        <item itemvalue="Application.Conversions" />
       </list>
     </recent_temporary>
   </component>
@@ -289,7 +296,14 @@
       <option name="project" value="LOCAL" />
       <updated>1713722204704</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Practice Exercises Added">
+      <created>1713817886774</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1713817886774</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -341,6 +355,7 @@
     <MESSAGE value="Test commit" />
     <MESSAGE value="Pull Request Test Commit" />
     <MESSAGE value="Pyramid Examples Added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Pyramid Examples Added" />
+    <MESSAGE value="Practice Exercises Added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Practice Exercises Added" />
   </component>
 </project>
