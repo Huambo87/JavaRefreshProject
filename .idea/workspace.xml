@@ -5,15 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5b8015d0-1c15-4e07-a330-3ec5049b84f1" name="Changes" comment="Practice Exercises Added">
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson3/Conversions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson3/LoginApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson3/Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson3/ReverseString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson3/SelfTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson3/StringFormat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson3/StringMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson3/Lesson3Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson3/NewPalindrome.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,9 +65,48 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Palindrome">
+  <component name="RunManager" selected="Application.Lesson3Practice">
     <configuration name="Conversions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lesson3.Conversions" />
+      <module name="JavaRefreshProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lesson3Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson3.Lesson3Practice" />
+      <module name="JavaRefreshProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson3.LoginApp" />
+      <module name="JavaRefreshProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NewPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson3.NewPalindrome" />
       <module name="JavaRefreshProject" />
       <extension name="coverage">
         <pattern>
@@ -98,52 +131,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson3.ReverseString" />
-      <module name="JavaRefreshProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lesson3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SelfTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson3.SelfTest" />
-      <module name="JavaRefreshProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lesson3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StringFormat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson3.StringFormat" />
-      <module name="JavaRefreshProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lesson3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Palindrome" />
-        <item itemvalue="Application.SelfTest" />
-        <item itemvalue="Application.ReverseString" />
-        <item itemvalue="Application.StringFormat" />
+        <item itemvalue="Application.Lesson3Practice" />
+        <item itemvalue="Application.LoginApp" />
         <item itemvalue="Application.Conversions" />
+        <item itemvalue="Application.NewPalindrome" />
+        <item itemvalue="Application.Palindrome" />
       </list>
     </recent_temporary>
   </component>
@@ -303,7 +297,14 @@
       <option name="project" value="LOCAL" />
       <updated>1713817886774</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Practice Exercises Added">
+      <created>1714088305228</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1714088305228</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
