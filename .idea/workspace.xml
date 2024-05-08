@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5b8015d0-1c15-4e07-a330-3ec5049b84f1" name="Changes" comment="Practice Exercises Added">
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson3/Lesson3Practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson3/NewPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Pages/Page.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Pages/PagesMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson4/ArrayExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson4/Lesson4Assignment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson4/Lesson4Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson4/ScannerExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson4/main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +70,7 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lesson3Practice">
+  <component name="RunManager" selected="Application.main">
     <configuration name="Conversions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lesson3.Conversions" />
       <module name="JavaRefreshProject" />
@@ -105,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NewPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson3.NewPalindrome" />
+    <configuration name="ScannerExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson4.ScannerExample" />
       <module name="JavaRefreshProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson3.*" />
+          <option name="PATTERN" value="lesson4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson3.Palindrome" />
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson4.main" />
       <module name="JavaRefreshProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson3.*" />
+          <option name="PATTERN" value="lesson4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.main" />
+        <item itemvalue="Application.ScannerExample" />
         <item itemvalue="Application.Lesson3Practice" />
         <item itemvalue="Application.LoginApp" />
         <item itemvalue="Application.Conversions" />
-        <item itemvalue="Application.NewPalindrome" />
-        <item itemvalue="Application.Palindrome" />
       </list>
     </recent_temporary>
   </component>
@@ -304,7 +309,14 @@
       <option name="project" value="LOCAL" />
       <updated>1714088305228</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Practice Exercises Added">
+      <created>1714251258852</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1714251258852</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
