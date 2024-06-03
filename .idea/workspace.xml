@@ -5,14 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5b8015d0-1c15-4e07-a330-3ec5049b84f1" name="Changes" comment="Practice Exercises Added">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Pages/Page.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Pages/PagesMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson4/ArrayExamples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson4/Lesson4Assignment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson4/Lesson4Practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson4/ScannerExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson4/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LegionFile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FileManager/FileManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Pages/AboutPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Pages/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Pages/PageInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StaticClassesEnumsExceptions/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StaticClassesEnumsExceptions/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson1/StraightPyramid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson5/TypingGame.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Pages/Page.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Pages/Page.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Pages/PagesMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Pages/PagesMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +59,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -70,13 +75,13 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Application.main">
-    <configuration name="Conversions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson3.Conversions" />
+  <component name="RunManager" selected="Application.StraightPyramid">
+    <configuration name="FileManager" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FileManager.FileManager" />
       <module name="JavaRefreshProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson3.*" />
+          <option name="PATTERN" value="FileManager.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lesson3Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson3.Lesson3Practice" />
+    <configuration name="Lesson2Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson2.Lesson2Practice" />
       <module name="JavaRefreshProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson3.*" />
+          <option name="PATTERN" value="lesson2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoginApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson3.LoginApp" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StaticClassesEnumsExceptions.Main" />
       <module name="JavaRefreshProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson3.*" />
+          <option name="PATTERN" value="StaticClassesEnumsExceptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ScannerExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson4.ScannerExample" />
+    <configuration name="StraightPyramid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson1.StraightPyramid" />
       <module name="JavaRefreshProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson4.*" />
+          <option name="PATTERN" value="lesson1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson4.main" />
+    <configuration name="TypingGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson5.TypingGame" />
       <module name="JavaRefreshProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson4.*" />
+          <option name="PATTERN" value="lesson5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.main" />
-        <item itemvalue="Application.ScannerExample" />
-        <item itemvalue="Application.Lesson3Practice" />
-        <item itemvalue="Application.LoginApp" />
-        <item itemvalue="Application.Conversions" />
+        <item itemvalue="Application.StraightPyramid" />
+        <item itemvalue="Application.Lesson2Practice" />
+        <item itemvalue="Application.TypingGame" />
+        <item itemvalue="Application.FileManager" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -316,7 +321,14 @@
       <option name="project" value="LOCAL" />
       <updated>1714251258852</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Practice Exercises Added">
+      <created>1715128050820</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1715128050820</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -361,6 +373,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="My first commit" />
     <MESSAGE value="Commit Practice for Java Refresh Project" />
     <MESSAGE value="First commit to new branch" />
@@ -370,5 +383,16 @@
     <MESSAGE value="Pyramid Examples Added" />
     <MESSAGE value="Practice Exercises Added" />
     <option name="LAST_COMMIT_MESSAGE" value="Practice Exercises Added" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Pages/PagesMain.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
