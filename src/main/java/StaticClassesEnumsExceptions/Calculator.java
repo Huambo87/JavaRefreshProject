@@ -9,7 +9,7 @@ public class Calculator {
 
 //    Enum final constants:
 
-    enum Type {
+    public enum Type {
         MULTIPLICATION,
         ADDITION,
         DIVISION,
@@ -54,7 +54,7 @@ public class Calculator {
             }
         } catch (Exception err) {
             System.out.println("Something goes wrong!");
-//            throw err;
+            throw err;
         }
 
 //        finally {
